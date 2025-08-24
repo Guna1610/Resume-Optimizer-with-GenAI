@@ -1,164 +1,74 @@
-\# 📝 Resume Optimizer with GenAI
-
-
-
-An AI-powered system to automatically tailor resumes to job descriptions for higher ATS (Applicant Tracking System) match rates.  
-
-Built with \*\*Python, Google Gemini API, python-docx, and Streamlit\*\*.
-
-
-
----
-
-
-
-\## 🚀 Features
-
-\- \*\*Resume Parsing\*\*: Reads `.docx` resumes and extracts structured sections (Summary, Skills, Project Experience).
-
-\- \*\*Job Description Handling\*\*: Loads `.txt`/pasted JDs and extracts relevant keywords.
-
-\- \*\*GenAI Integration\*\*: Uses Google Gemini 1.5 Flash for LLM-driven rewriting of:
-
-&nbsp; - \*\*Skills\*\* (categorized, ATS keyword alignment)
-
-&nbsp; - \*\*Project Experience\*\* (action verbs, measurable outcomes, JD relevance)
-
-\- \*\*Project Library\*\*: Automatically selects the \*\*top 3 projects\*\* most relevant to the JD from a full library.
-
-\- \*\*Formatting Preservation\*\*: Maintains original Word resume layout (Times New Roman, indentation, bullet points, spacing).
-
-\- \*\*Streamlit Web App\*\*:
-
-&nbsp; - Left: Resume preview + inline editing of Summary, Skills, and Projects
-
-&nbsp; - Right: JD Terminal (dark-mode input) + project library uploader
-
-&nbsp; - One-click optimization → Download optimized `.docx`
-
-\- \*\*Keyword Overlap Scoring\*\*: Rough ATS alignment score (percentage of JD keywords already in resume).
-
-
-
----
-
-
-
-\## 📂 Project Structure
-
-resume-optimizer-genai/
-
-├── app.py # Streamlit UI
-
-├── resume\_optimizer.py # Core pipeline
-
-├── requirements.txt # Dependencies
-
-├── projects.txt # Sample project library
-
-├── sample\_resume.docx # Example resume
-
-├── sample\_job.txt # Example job description
-
-└── README.md # Documentation
-
-
-
-\## ⚙️ Installation \& Setup
-
-
-
-1\. Clone this repo:
-
-&nbsp;  ```bash
-
-&nbsp;  git clone https://github.com/<your-username>/resume-optimizer-genai.git
-
-&nbsp;  cd resume-optimizer-genai
-
-
-
-2\. Create virtual environment \& install deps:
-
-
-
-&nbsp;  python -m venv venv
-
-&nbsp;  source venv/bin/activate  # or venv\\Scripts\\activate on Windows
-
-&nbsp;  pip install -r requirements.txt
-
-
-
-
-
-3\. Create .env and add your Gemini API key:
-
-
-
-&nbsp;  GOOGLE\_API\_KEY=your\_api\_key\_here
-
-
-
-
-
-4\. Run the Streamlit app:
-
-
-
-&nbsp;  streamlit run app.py
-
-
-
-
-
-\## Usage
-
-
-
-Upload your resume (.docx)
-
-
-
-Paste or upload a JD (.txt)
-
-
-
-Upload your full projects.txt (library of all projects)
-
-
-
-Review/edit extracted sections in the left pane
-
-
-
-Click Optimize Resume
-
-
-
-Download ATS-optimized .docx
-
-
-
-\## Tech Stack
-
-
-
-Python
-
-
-
-Google Gemini API (Generative AI)
-
-
-
-Streamlit – interactive UI
-
-
-
-python-docx – Word doc parsing/writing
-
-
-
-dotenv – safe API key handling
-
+Resume Optimizer with GenAI
+
+🚀 Resume Optimizer with GenAI is an AI-powered tool that tailors your resume to a given job description using Google Gemini API and python-docx.
+It rewrites the Skills and Project Experience sections with ATS-friendly keywords, measurable outcomes, and professional phrasing while preserving the original formatting.
+
+✨ Features
+   📂 Resume Parsing – Extracts structured text from .docx resumes.
+   📄 Job Description Parsing – Reads job descriptions from .txt.
+   🤖 AI-Powered Optimization –
+        Skills section: grouped into bold categories (Programming, Visualization, ML, etc.).
+        Project Experience: rewritten with action verbs, measurable results, and ATS keywords.
+        Selects Top 3 most relevant projects from a user-provided project library.
+   🎨 Formatting Preservation – Keeps .docx layout, Times New Roman (12pt), indentation, and bullet style intact.
+   🔑 ATS Optimization – Seamlessly integrates keywords like Python, SQL, Tableau, Azure, MLOps, ETL.
+   📝 Output – Generates an ATS-friendly, recruiter-ready .docx resume.
+
+🛠️ Tech Stack
+
+Python 3.10+
+Google Gemini API
+ (google-generativeai)
+python-docx
+ – resume parsing & writing
+python-dotenv – manage API keys
+(Future: ChromaDB + sentence-transformers for RAG-based project matching)
+
+📂 Project Structure
+ResumeOptimizer-GenAI/
+│── resume_optimizer.py      # Main script – parse, optimize, and rewrite resume sections
+│── projects.txt             # Project library (all your projects listed here)
+│── sample_resume.docx       # Input resume example
+│── sample_job.txt           # Job description example
+│── optimized_resume.docx    # Output ATS-optimized resume
+│── requirements.txt         # Dependencies
+│── README.md                # Documentation
+
+
+How It Works
+
+Place your resume in .docx format (sample_resume.docx).
+Add the job description in .txt (sample_job.txt).
+Add your full project library in projects.txt.
+Run the script:
+python resume_optimizer.py
+Get your ATS-optimized resume in optimized_resume.docx 🎉
+
+📦 Installation
+
+Clone the repository:
+       git clone https://github.com/<your-username>/Resume-Optimizer-with-GenAI.git
+       cd Resume-Optimizer-with-GenAI
+
+Create a virtual environment and install dependencies:
+        python -m venv venv
+        source venv/bin/activate   # (Linux/Mac)
+        venv\Scripts\activate      # (Windows)
+
+        pip install -r requirements.txt
+
+Set up your Google Gemini API key:
+        Get a free key from Google AI Studio
+.       Create a .env file in the project root:
+                                       GOOGLE_API_KEY=your_api_key_here
+
+Future Enhancements
+
+ Add Streamlit/Gradio UI for drag-and-drop resume optimization.
+ Support PDF parsing for resumes & job descriptions.
+ Integrate ChromaDB for semantic project matching.
+ Export in LaTeX/Markdown resume templates.
+
+ 📜 License
+
+This project is licensed under the MIT License – free to use and modify.
