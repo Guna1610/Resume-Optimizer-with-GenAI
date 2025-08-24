@@ -1,0 +1,51 @@
+PULMONARY EMBOLISM AND ESOPHAGATIS – ML(RESEARCH)
+•	Structured patient data (age, BMI, BP, history) and applied feature selection (SelectKBest) to build reliable machine learning pipelines.
+•	Developed and compared classifiers (LogReg, RF, SVM, Gradient Boost) with RF achieving 100% accuracy and others ~99.6–99.7% accuracy.
+•	Evaluated models using precision, recall, F1-score, ensuring robustness for clinical use and deployment.
+•	Positioned the solution as a clinical decision support tool for early diagnosis, improving diagnostic accuracy and patient outcomes.
+•	Documented the entire process and results for stakeholder adoption and reproducibility, creating a standardized clinical workflow.
+
+MEDI-CONNECT - SYMPTON-TO-MEDICINE PREDICTION — NLP + STREAMLIT (RESEARCH)
+•	Preprocessed 112K+ drug review records using NLP techniques (tokenization, normalization, TF-IDF, word embeddings).
+•	Benchmarked multiple classifiers, achieving 94.3% accuracy, aligned with clinical use cases and requirements.
+•	Deployed a user-friendly Streamlit web application with speech-to-text and Google Maps integration for enhanced accessibility.
+•	Framed the findings in terms of quantifiable business outcomes (improved triage efficiency, enhanced patient support).
+•	Delivered reproducible NLP pipelines adhering to Agile methodology, ensuring efficient development and maintenance.
+
+HEART DISEASE CLASSIFICATION
+•	Applied various machine learning models to the UCI Cleveland dataset (300 patients, 14 attributes) to predict heart disease.
+•	Compared multiple classifiers (LogReg, DT, RF) using accuracy, precision, recall, and F1-score metrics.
+•	Identified Random Forest as the most suitable model, providing a balanced accuracy suitable for clinical decision-making.
+•	Created comprehensive stakeholder-facing reports explaining model interpretability and key findings for improved understanding.
+•	Packaged project outputs into reproducible workflows to facilitate collaboration and future development.
+
+BLUEBOOK FOR BULLDOZERS – END-TO-END PRICE PREDICTION
+•	Modeled 400K+ auction records to accurately predict heavy equipment resale prices using machine learning techniques.
+•	Engineered a comprehensive set of temporal, categorical, and equipment-specific features to enhance predictive accuracy.
+•	Benchmarked various regression models (Linear Regression, Random Forest, Gradient Boosting) using RMSE, MAE, and R-squared metrics.
+•	Automated data preparation, model training, and performance comparison pipelines for increased efficiency.
+•	Presented the analysis as a valuable pricing decision support tool for procurement, leading to better cost management.
+•	Documented all workflows for reusability across teams and projects, ensuring consistency and reproducibility.
+
+AIRBNB DATA ANALYSIS & VISUALIZATION
+•	Standardized 25K+ Airbnb listings into analysis-ready tables using SQL and Python, ensuring data quality and consistency.
+•	Developed interactive Tableau dashboards to visualize key performance indicators (KPIs) such as occupancy, revenue, pricing strategies, and host performance.
+•	Leveraged geospatial and time-series analysis methods to identify seasonal trends and demand clusters, providing actionable insights.
+•	Automated data pipelines for dashboard updates, ensuring stakeholders always had access to up-to-date information.
+•	Provided data-driven support for strategic pricing decisions and market planning, leading to host performance optimization.
+
+EXPLORATORY DATA ANALYSIS — (BASKETBALL, OLYMPICS, BOOKS).
+•	Conducted EDA across sports, retail, and events, generating insights tied to business questions (e.g., sales trends, performance efficiency).
+•	Built visualizations and KPI reports for stakeholders using Python (Seaborn, Matplotlib).
+•	Applied feature engineering to prepare data for future modeling.
+•	Packaged outputs into clear, reproducible scripts aligned with Agile sprints.
+•	Facilitated knowledge-sharing sessions to translate findings into strategy recommendations.
+
+
+
+LAYOFF’S DATA CLEANING & EDA — SQL. 
+•	Built robust SQL pipelines (10K+ rows) using CTEs, ROW_NUMBER, and window functions for accurate workforce analysis.
+•	Standardized fields to align with business reporting standards and KPI dashboards.
+•	Conducted trend analysis to identify high-risk industries and workforce reductions.
+•	Delivered insights that supported stakeholder risk assessments and workforce planning.
+•	Documented workflows for cross-functional collaboration and reproducibility.

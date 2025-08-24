@@ -1,0 +1,78 @@
+GANDHAM GUNASHEKAR
+ Hyderabad | shekar.df7@gmail.com | +91 7075298758
+http://www.linkedin.com/in/guna7075 | https://github.com/Guna1610
+
+SUMMARY
+AI & Data Science graduate (CBIT, 2024) with expertise in Data Analysis, Business Analytics, and Machine Learning. Experienced in SQL, Python, Tableau, and ML pipelines, with a strong track record of delivering business-ready dashboards, predictive models, and stakeholder-aligned insights. Published research in healthcare AI, achieving up to 100% model accuracy. Adept at collaborating with cross-functional teams, gathering business requirements, and translating data into strategic recommendations. 
+SKILLS
+Programming & Data: Python (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn), SQL (CTEs, Window Functions, Data Cleaning), Git/GitHub, R.
+BI & Visualization: Tableau (Dashboards, KPI Design, Geospatial), Power BI, Excel (Pivot Tables, Advanced Functions), Streamlit.
+Machine Learning: Classification, Regression, NLP (TF-IDF, Tokenization), Feature Engineering & Selection, Model Evaluation (Accuracy, Precision, Recall, F1, RMSE, MAE), Deep Learning.
+Frameworks: scikit-learn, TensorFlow, Keras, PyTorch, NLTK, OpenCV, Spacy.
+Analytics & Practices: Data Cleaning & EDA, Data-driven Decision Making, Agile (Scrum, Sprint Planning), CRISP-DM, Stakeholder Reporting & Presentations, CI/CD, REST APIs.
+PROJECT EXPERIENCE
+
+BLUEBOOK FOR BULLDOZERS – END-TO-END PRICE PREDICTION. 
+Modeled 400K+ auction records to predict heavy equipment resale prices.
+Engineered temporal, categorical, and equipment-specific features for predictive accuracy.
+Benchmarked regression models (Linear, RF, GB) using RMSE, MAE, and R².
+Automated pipelines for data preparation, training, and comparison across models.
+Positioned analysis as a pricing decision support tool for procurement.
+Documented workflows for reusability across teams and projects.
+
+MEDI-CONNECT - SYMPTON-TO-MEDICINE PREDICTION — NLP + STREAMLIT (RESEARCH)
+Preprocessed 112K+ drug review records using NLP techniques (tokenization, normalization, TF-IDF).
+Benchmarked classifiers, achieving 94.3% accuracy, aligned with clinical use cases.
+Deployed a Streamlit web app with speech-to-text and Google Maps integration for end-user accessibility.
+Framed findings into business outcomes (triage optimization, patient support).
+Delivered reproducible pipelines aligned with Agile methodology.
+
+
+WORK EXPERIENCE
+VOLUNTEER.
+Mantra Surf Club, Mulki					             		        01-04-2025 – 01-05-2025                                                                                
+Volunteered at Mantra Surf Club, assisting with surfing lessons and teaching stand-up paddling and kayaking to guests.
+Supported daily café operations, delivering customer service and maintaining a welcoming atmosphere.
+Served as Guest Relations Manager, ensuring smooth communication and positive visitor experiences.
+Developed hospitality, communication, teamwork, and cultural sensitivity skills while engaging with diverse people in a vibrant coastal setting.
+PRESIDENT OF CHAITANYA LAASYA (UNITED DANCE CREW).
+Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad			        01-06-2023 – 16-06-2024
+Led and motivated the team, fostering collaboration and managing conflicts to maintain high morale and performance.
+Planned and executed events, handling logistics, budgeting, and ensuring successful execution under tight deadlines.
+Adapted quickly to last-minute challenges, ensuring smooth event operations despite unexpected issues.
+Managed the club's budget, secured sponsorships, and balanced finances to deliver successful, cost-effective events.
+Drove club growth through strategic visibility campaigns, recruitment efforts, and new initiatives like workshops and social media presence.
+
+
+POTENTIAL PUBLICATIONS
+
+“PREDICTION OF PULMONARY EMBOLISM AND ESOPHAGITIS USING MACHINE LEARNING”.
+Presented at International conference on cognitive & intelligent computing (ICCIC), 2023.
+Formulated and validated machine learning algorithms for accurate diagnosis.
+
+“MEDICONNECT: A Symptom-Based Medicine Prediction System using Natural Language Processing”.
+Published in International journal of intelligent systems technologies and applications (IJISTA), 2024.
+Implemented NLP system for symptom analysis and medication prediction, integrating real-time pharmacy services.
+
+EDUCATION
+
+Chaitanya Bharathi Institute of Technology						                    CGPA: 7.9
+B.E(AI&DS)					           				                  (06-12-2020 – 16-06-2024)
+
+Narayana Junior College									          Percentage: 94.9
+INTERMEDIATE(MPC)						  	      	      (01-04-2018 – 01-03-2020)
+
+Narayana Concept School										           GPA: 9.5
+10th (SSC)									                  (01-04-2017 – 01-03-2018)
+
+ACHIEVEMENTS
+
+Certified President of Chaitanya Laasya (2023-24).
+Expressway to Data Science: Python Programming, University of Colorado Boulder (via Coursera) – Jun 2025 (Covers Python, Pandas, NumPy, Matplotlib, Seaborn)  
+			[Verify Certificate] - ( https://coursera.org/verify/specialization/GCT6AA9J3CE6 )
+
+EXTRA & CO-CURRICULAR ACTIVITIES
+
+Organized and competed in annual cricket, volleyball, and badminton tournaments, achieving a 40% increase in team participation, enhancing team collaboration and morale through strategic planning and communication.
+Strengthened team collaboration through strategic planning and inclusive leadership.
+

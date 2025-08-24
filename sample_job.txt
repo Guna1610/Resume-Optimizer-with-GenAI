@@ -1,0 +1,39 @@
+Business Analyst I, Ops DnA
+Job ID: 3027313 | Amazon Dev Center India - Hyderabad
+DESCRIPTION
+Want to join the Earth’s most customer centric company? Do you like to dive deep to understand problems? Are you someone who likes to challenge Status Quo? Do you strive to excel at goals assigned to you? If yes, we have opportunities for you. Global Operations – Artificial Intelligence (GO-AI) at Amazon is looking to hire candidates who can excel in a fast-paced dynamic environment.
+
+Are you somebody that likes to use and analyze big data to drive business decisions? Do you enjoy converting data into insights that will be used to enhance customer decisions worldwide for business leaders? Do you want to be part of the data team which measures the pulse of innovative machine vision-based projects? If your answer is yes, join our team. GO-AI is looking for a motivated individual with strong skills and experience in resource utilization planning, process optimization and execution of scalable and robust operational mechanisms, to join the GO-AI Ops DnA team. In this position you will be responsible for supporting our sites to build solutions for the rapidly expanding GO-AI team. The role requires the ability to work with a variety of key stakeholders across job functions with multiple sites.
+
+We are looking for an entrepreneurial and analytical program manager, who is passionate about their work, understands how to manage service levels across multiple skills/programs, and who is willing to move fast and experiment often.
+
+Key job responsibilities
+- Design and develop highly available dashboards and metrics using SQL and Excel/Tableau
+- Execute high priority (i.e. cross functional, high impact) projects to create robust, scalable analytics solutions and frameworks with the help of Analytics/BIE managers
+- Work closely with internal stakeholders such as business teams, engineering teams, and partner teams and align them with respect to your focus area
+- Creates and maintains comprehensive business documentation including user stories, acceptance criteria, and process flows that help the BIE understand the context for developing ETL processes and visualization solutions.
+- Performs user acceptance testing and business validation of delivered dashboards and reports, ensuring that BIE-created solutions meet actual operational needs and can be effectively utilized by site managers and operations teams.
+
+- Monitors business performance metrics and operational KPIs to proactively identify emerging analytical requirements, working with BIEs to rapidly develop solutions that address real-time operational challenges in the dynamic AI-enhanced fulfillment environment.
+
+
+
+About the team
+The Global Operations – Artificial Intelligence (GO-AI) team remotely handles exceptions in the Amazon Robotic Fulfillment Centers Globally. GO-AI seeks to complement automated vision based decision-making technologies by providing remote human support for the subset of tasks which require higher cognitive ability and cannot be processed through automated decision making with high confidence. This team provides end-to-end solutions through inbuilt competencies of Operations and strong central specialized teams to deliver programs at Amazon scale. It is operating multiple programs including Nike IDS, Proteus, Sparrow and other new initiatives in partnership with global technology and operations teams.
+
+BASIC QUALIFICATIONS
+- Experience defining requirements and using data and metrics to draw business insights
+- Knowledge of SQL
+- Knowledge of data visualization tools such as Quick Sight, Tableau, Power BI or other BI packages
+- Knowledge of Python, VBA, Macros, Selenium scripts
+- 1+ year of experience working in Analytics / Business Intelligence environment with prior experience of design and execution of analytical projects
+
+PREFERRED QUALIFICATIONS
+- Experience in using AI tools
+- Experience in Amazon Redshift and other AWS technologies for large datasets
+- Analytical mindset and ability to see the big picture and influence others
+- Detail-oriented and must have an aptitude for solving unstructured problems. The role will require the ability to extract data from various sources and to design/construct/execute complex analyses to finally come up with data/reports that help solve the business problem
+- Good oral, written and presentation skills combined with the ability to be part of group discussions and explaining complex solutions
+- Ability to apply analytical, computer, statistical and quantitative problem solving skills is required
+- Ability to work effectively in a multi-task, high volume environment
+- Ability to be adaptable and flexible in responding to deadlines and workflow fluctuations
