@@ -4,15 +4,15 @@
 It rewrites the Skills and Project Experience sections with ATS-friendly keywords, measurable outcomes, and professional phrasing while preserving the original formatting.
 
 ### ✨ Features
-   -.📂 Resume Parsing – Extracts structured text from .docx resumes.
-   -.📄 Job Description Parsing – Reads job descriptions from .txt.
-   -.🤖 AI-Powered Optimization –
+   - 📂 Resume Parsing – Extracts structured text from .docx resumes.
+   - 📄 Job Description Parsing – Reads job descriptions from .txt.
+   - 🤖 AI-Powered Optimization –
    - Skills section: grouped into bold categories (Programming, Visualization, ML, etc.).
    - Project Experience: rewritten with action verbs, measurable results, and ATS keywords.
    - Selects Top 3 most relevant projects from a user-provided project library.
-   -🎨 Formatting Preservation – Keeps .docx layout, Times New Roman (12pt), indentation, and bullet style intact.
-   -🔑 ATS Optimization – Seamlessly integrates keywords like Python, SQL, Tableau, Azure, MLOps, ETL.
-   -📝 Output – Generates an ATS-friendly, recruiter-ready .docx resume.
+   - 🎨 Formatting Preservation – Keeps .docx layout, Times New Roman (12pt), indentation, and bullet style intact.
+   - 🔑 ATS Optimization – Seamlessly integrates keywords like Python, SQL, Tableau, Azure, MLOps, ETL.
+   - 📝 Output – Generates an ATS-friendly, recruiter-ready .docx resume.
 
 ### 🛠️ Tech Stack
 
