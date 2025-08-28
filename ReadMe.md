@@ -33,31 +33,27 @@ It rewrites the Skills and Project Experience sections with ATS-friendly keyword
 
 
 ### How It Works
-
-Place your resume in .docx format (sample_resume.docx).
-Add the job description in .txt (sample_job.txt).
-Add your full project library in projects.txt.
-Run the script:
-python resume_optimizer.py
-Get your ATS-optimized resume in optimized_resume.docx 🎉
+- Place your resume in .docx format (sample_resume.docx).
+- Add the job description in .txt (sample_job.txt).
+- Add your full project library in projects.txt.
+- Run the script:
+- python resume_optimizer.py
+- Get your ATS-optimized resume in optimized_resume.docx 🎉
 
 ### 📦 Installation
 
-Clone the repository:
-       git clone https://github.com/<your-username>/Resume-Optimizer-with-GenAI.git
-       cd Resume-Optimizer-with-GenAI
+- Clone the repository:
+  git clone https://github.com/<your-username>/Resume-Optimizer-with-GenAI.git
+  cd Resume-Optimizer-with-GenAI
 
-Create a virtual environment and install dependencies:
-        python -m venv venv
-        source venv/bin/activate   # (Linux/Mac)
-        venv\Scripts\activate      # (Windows)
-
-        pip install -r requirements.txt
-
-Set up your Google Gemini API key:
-        Get a free key from Google AI Studio
-.       Create a .env file in the project root:
-                                       GOOGLE_API_KEY=your_api_key_here
+- Create a virtual environment and install dependencies:
+  python -m venv venv
+  source venv/bin/activate   # (Linux/Mac)
+  venv\Scripts\activate      # (Windows)
+- pip install -r requirements.txt
+- Set up your Google Gemini API key:
+  Get a free key from Google AI Studio
+- Create a .env file in the project root:  GOOGLE_API_KEY=your_api_key_here
 
 ### Future Enhancements
 
