@@ -47,9 +47,9 @@ It rewrites the Skills and Project Experience sections with ATS-friendly keyword
   cd Resume-Optimizer-with-GenAI
 
 - Create a virtual environment and install dependencies:
-   -- python -m venv venv
-   -- source venv/bin/activate   # (Linux/Mac)
-   -- venv\Scripts\activate      # (Windows)
+- -- python -m venv venv
+- -- source venv/bin/activate   # (Linux/Mac)
+- -- venv\Scripts\activate      # (Windows)
 - pip install -r requirements.txt
 - Set up your Google Gemini API key:
   Get a free key from Google AI Studio
