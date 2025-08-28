@@ -15,10 +15,9 @@ It rewrites the Skills and Project Experience sections with ATS-friendly keyword
    - 📝 Output – Generates an ATS-friendly, recruiter-ready .docx resume.
 
 ### 🛠️ Tech Stack
-
-   -Python 3.10+
-   -Google Gemini API(google-generativeai)
-   -python-docx(resume parsing & writing)
+-Python 3.10+
+-Google Gemini API(google-generativeai)
+-python-docx(resume parsing & writing)
    -python-dotenv – manage API keys
    (Future: ChromaDB + sentence-transformers for RAG-based project matching)
 
