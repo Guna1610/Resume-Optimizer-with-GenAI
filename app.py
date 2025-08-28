@@ -7,7 +7,7 @@ from docx import Document
 from dotenv import load_dotenv
 
 # Import your existing engine
-import duplicate as ro
+import final_resume_optimizer as ro
 
 load_dotenv()
 
