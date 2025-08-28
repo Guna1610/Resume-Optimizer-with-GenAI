@@ -47,20 +47,19 @@ It rewrites the Skills and Project Experience sections with ATS-friendly keyword
   cd Resume-Optimizer-with-GenAI
 
 - Create a virtual environment and install dependencies:
-  python -m venv venv
-  source venv/bin/activate   # (Linux/Mac)
-  venv\Scripts\activate      # (Windows)
+   -- python -m venv venv
+   -- source venv/bin/activate   # (Linux/Mac)
+   -- venv\Scripts\activate      # (Windows)
 - pip install -r requirements.txt
 - Set up your Google Gemini API key:
   Get a free key from Google AI Studio
 - Create a .env file in the project root:  GOOGLE_API_KEY=your_api_key_here
 
 ### Future Enhancements
-
- Add Streamlit/Gradio UI for drag-and-drop resume optimization.
- Support PDF parsing for resumes & job descriptions.
- Integrate ChromaDB for semantic project matching.
- Export in LaTeX/Markdown resume templates.
+- Add Streamlit/Gradio UI for drag-and-drop resume optimization.
+- Support PDF parsing for resumes & job descriptions.
+- Integrate ChromaDB for semantic project matching.
+- Export in LaTeX/Markdown resume templates.
 
  ### 📜 License
 
