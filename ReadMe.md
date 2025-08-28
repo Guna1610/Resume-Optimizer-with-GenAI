@@ -22,14 +22,14 @@ It rewrites the Skills and Project Experience sections with ATS-friendly keyword
    (Future: ChromaDB + sentence-transformers for RAG-based project matching)
 
 ### 📂 Project Structure
-ResumeOptimizer-GenAI/
-│── resume_optimizer.py      # Main script – parse, optimize, and rewrite resume sections
-│── projects.txt             # Project library (all your projects listed here)
-│── sample_resume.docx       # Input resume example
-│── sample_job.txt           # Job description example
-│── optimized_resume.docx    # Output ATS-optimized resume
-│── requirements.txt         # Dependencies
-│── README.md                # Documentation
+    ResumeOptimizer-GenAI/
+      -│── resume_optimizer.py      # Main script – parse, optimize, and rewrite resume sections
+      -│── projects.txt             # Project library (all your projects listed here)
+      -│── sample_resume.docx       # Input resume example
+      -│── sample_job.txt           # Job description example
+      -│── optimized_resume.docx    # Output ATS-optimized resume
+      -│── requirements.txt         # Dependencies
+      -│── README.md                # Documentation
 
 
 ### How It Works
